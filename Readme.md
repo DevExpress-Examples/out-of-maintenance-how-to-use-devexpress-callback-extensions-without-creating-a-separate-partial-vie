@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # How to use DevExpress callback extensions without creating a separate partial view
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5027)**
+**[[Run Online]](https://codecentral.devexpress.com/e5027/)**
 <!-- run online end -->
 
 
